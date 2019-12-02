@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "670223364128",
-    "firebase_url": "https://fir-realtimep1.firebaseio.com",
-    "project_id": "fir-realtimep1",
-    "storage_bucket": "fir-realtimep1.appspot.com"
+    "project_number": "404119214160",
+    "firebase_url": "https://bulatec-f29bd.firebaseio.com",
+    "project_id": "bulatec-f29bd",
+    "storage_bucket": "bulatec-f29bd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:670223364128:android:a423268cb1b31181",
+        "mobilesdk_app_id": "1:404119214160:android:900dbbf81b9644d4d15955",
         "android_client_info": {
-          "package_name": "com.deepmodi.firebaserealtimedatabaseprojectone"
+          "package_name": "br.com.bulatec"
         }
       },
       "oauth_client": [
         {
-          "client_id": "670223364128-l196pau6pn003pc8bq8rnj5pvdb78c4f.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.deepmodi.firebaserealtimedatabaseprojectone",
-            "certificate_hash": "13336103e544bd31e3864992c361e4a486d3148d"
-          }
-        },
-        {
-          "client_id": "670223364128-rn1nncvqv3chvdtk590kipe6q6v12inf.apps.googleusercontent.com",
+          "client_id": "404119214160-8ucd2dt7tq4a79o840h913pjfh8ucr10.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCfXV3EiNm2CMcPatA088Ko9E4dHfbK2nA"
+          "current_key": "AIzaSyDTW0phDXJaN4lC5d9RFz1HzcJdzc8R1p4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "670223364128-rn1nncvqv3chvdtk590kipe6q6v12inf.apps.googleusercontent.com",
+              "client_id": "404119214160-8ucd2dt7tq4a79o840h913pjfh8ucr10.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,35 +37,72 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:670223364128:android:145c3cf61f24f4f0",
+        "mobilesdk_app_id": "1:404119214160:android:0af1c9bddf3c7bbfd15955",
         "android_client_info": {
-          "package_name": "com.deepmodi.firebaserecyclerviewp1"
+          "package_name": "br.com.recyclerviewbulatec"
         }
       },
       "oauth_client": [
         {
-          "client_id": "670223364128-4s6j0go30cmrnhhl17ii0jhm2oce2cib.apps.googleusercontent.com",
+          "client_id": "404119214160-an24ifbhj4p3mvnprd6kg25dv8evo828.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.deepmodi.firebaserecyclerviewp1",
-            "certificate_hash": "13336103e544bd31e3864992c361e4a486d3148d"
+            "package_name": "br.com.recyclerviewbulatec",
+            "certificate_hash": "b736f7742c5f1be46c424935e227bb31ff3561b7"
           }
         },
         {
-          "client_id": "670223364128-rn1nncvqv3chvdtk590kipe6q6v12inf.apps.googleusercontent.com",
+          "client_id": "404119214160-8ucd2dt7tq4a79o840h913pjfh8ucr10.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCfXV3EiNm2CMcPatA088Ko9E4dHfbK2nA"
+          "current_key": "AIzaSyDTW0phDXJaN4lC5d9RFz1HzcJdzc8R1p4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "670223364128-rn1nncvqv3chvdtk590kipe6q6v12inf.apps.googleusercontent.com",
+              "client_id": "404119214160-8ucd2dt7tq4a79o840h913pjfh8ucr10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404119214160:android:3bb024318165fde2d15955",
+        "android_client_info": {
+          "package_name": "com.deepmodi.firebaserecyclerviewp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404119214160-rsh8s3tkk742ee8cpv0ka013h7oplb7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepmodi.firebaserecyclerviewp1",
+            "certificate_hash": "b736f7742c5f1be46c424935e227bb31ff3561b7"
+          }
+        },
+        {
+          "client_id": "404119214160-8ucd2dt7tq4a79o840h913pjfh8ucr10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTW0phDXJaN4lC5d9RFz1HzcJdzc8R1p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404119214160-8ucd2dt7tq4a79o840h913pjfh8ucr10.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

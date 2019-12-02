@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
     <TextView
-        android:id="@+id/userName_textView"
+        android:id="@+id/nome_textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -17,11 +17,11 @@
         android:textSize="18sp"
         android:textColor="#000"
         android:textAllCaps="true"
-        android:text="User name"
+        android:text="Nome"
         />
 
     <TextView
-        android:id="@+id/userSurname_textView"
+        android:id="@+id/descricao_textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -29,21 +29,10 @@
         android:textSize="18sp"
         android:textColor="#000"
         android:textAllCaps="true"
-        android:text="User name"
-        android:layout_below="@id/userName_textView"
+        android:text="Descrição"
+        android:layout_below="@id/nome_textView"
         />
 
-        <TextView
-            android:id="@+id/user_number_textView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:paddingLeft="10dp"
-            android:textSize="18sp"
-            android:textColor="#000"
-            android:textAllCaps="true"
-            android:text="User name"
-            android:layout_below="@id/userSurname_textView"
-            />
+
     </RelativeLayout>
 </android.support.v7.widget.CardView>
